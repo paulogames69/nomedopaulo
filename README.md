@@ -2,5 +2,4 @@
 
 Hi, my name is Paulinho Chapuleta!
 
--I'm a student, I'm studying in [InternetShortcut]
-URL=https://www.alura.com.br/
+-I'm a student, I'm studying in [Alura](https://www.alura.com.br/)
